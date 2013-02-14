@@ -42,24 +42,39 @@
     <string name="advanced" msgid="7122495413742976492">"Panel lanjutan"</string>
     <string name="clear_history" msgid="8458043980601165012">"Hapus riwayat"</string>
     <string name="text_copied_toast" msgid="5801480710472541833">"Teks disalin."</string>
-    <string name="leftParenDesc" msgid="8446428211982811379">"kurung buka"</string>
-    <string name="rightParenDesc" msgid="9133691645148976523">"kurung tutup"</string>
-    <string name="factorialDesc" msgid="9217024218012761574">"faktorial"</string>
-    <string name="lnDesc" msgid="1052579286300842270">"logaritma alami"</string>
-    <string name="lgDesc" msgid="6490920451513731160">"logaritme"</string>
-    <string name="sqrtDesc" msgid="2247252128762219267">"akar pangkat dua"</string>
-    <string name="divDesc" msgid="7442623079124315427">"bagi"</string>
-    <string name="mulDesc" msgid="9003016819648670694">"kali"</string>
-    <string name="plusDesc" msgid="3145322700823848264">"plus"</string>
-    <string name="minusDesc" msgid="5033462008907390900">"minus"</string>
-    <string name="dotDesc" msgid="5253752241630161722">"titik"</string>
-    <string name="powerDesc" msgid="9034898318444176910">"pangkat"</string>
-    <string name="delDesc" msgid="8211175878012032240">"hapus"</string>
-    <string name="clearDesc" msgid="8015748901120751476">"hapus"</string>
-    <string name="tanDesc" msgid="2055554933130702423">"tangen"</string>
-    <string name="sinDesc" msgid="6563285042235077204">"sinus"</string>
-    <string name="cosDesc" msgid="4048942450207926538">"kosinus"</string>
-    <string name="eDesc" msgid="6709583372168924068">"bilangan Euler"</string>
-    <string name="piDesc" msgid="8838151606775021517">"pi"</string>
-    <string name="equalDesc" msgid="4164435100263313101">"sama dengan"</string>
+
+    <!-- CYANOGENMOD ADDITIONS -->
+    <string name="X">x</string>
+    <string name="Y">y</string>
+    <string name="matrix">Matriks</string>
+    <string name="graph">Grafik</string>
+    <string name="function">Fungsi</string>
+    <string name="hexPanel">Hex</string>
+    <string name="dx">dx</string>
+    <string name="dy">dy</string>
+    <string name="solveForX">Menyelesaikan x</string>
+    <string name="solveForY">Menyelesaikan y</string>
+    <string name="mod">mod</string>
+    <string name="defaultGraphTitle">Fungsi</string>
+    <string name="graphTitle">Fungsi: </string>
+    <string name="inverse">Inv</string>
+    <string name="determinant">Det</string>
+    <string name="eigenvalue">Eigen</string>
+    <string name="solve">Meny.</string>
+    <string name="dotProduct">Inpr</string>
+    <string name="crossProduct">Uitpr</string>
+    <string name="hex">Hex</string>
+    <string name="bin">Bin</string>
+    <string name="dec">Dec</string>
+    <string name="hexDesc">Heksadesimal</string>
+    <string name="binDesc">Biner</string>
+    <string name="decDesc">Desimal</string>
+    <string name="determinantDesc">Determinan</string>
+    <string name="eigenvalueDesc">Nilai Eigen</string>
+    <string name="settings">Setelan</string>
+    <string name="showHistory">Tampilkan riwayat</string>
+    <string name="hideHistory">Sembunyikan riwayat</string>
+    <string name="copy">Menyalin \'%s\'</string>
+    <string name="remove_from_history">Hapus dari riwayat</string>
+    <string name="returnToBasic">Kembali ke Panel dasar</string>
 </resources>
